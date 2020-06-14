@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0971817-8534-46ba-aa62-4e033a21e659" name="Default" comment="" />
+    <ignored path="sync_Cloud.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sync_Cloud" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="sync_cloud_ws.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sync_cloud_ws.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="165" column="0" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+              <folding>
+                <marker date="1587380919558" expanded="true" signature="1765:1819" placeholder="SELECT * FRO..seksion..." />
+                <marker date="1587380919558" expanded="true" signature="1765:1871" placeholder="SELECT * FRO..seksion..." />
+                <marker date="1587380919558" expanded="true" signature="1996:2242" placeholder="INSERT INTO ..." />
+                <marker date="1587380919558" expanded="true" signature="2948:3033" placeholder="UPDATE seksi..." />
+                <marker date="1587380919558" expanded="true" signature="2948:3037" placeholder="UPDATE seksi..." />
+                <marker date="1587380919558" expanded="true" signature="2948:3060" placeholder="UPDATE seksi..." />
+                <marker date="1587380919558" expanded="true" signature="5219:5334" placeholder="delete from ..." />
+                <marker date="1587380919558" expanded="true" signature="5219:5362" placeholder="delete from ..." />
+                <marker date="1587380919558" expanded="true" signature="5259:5275" placeholder="select FATUR..." />
+                <marker date="1587380919558" expanded="true" signature="5259:5334" placeholder="select FATUR..fatured..." />
+                <marker date="1587380919558" expanded="true" signature="5802:5867" placeholder="delete from ..." />
+                <marker date="1587380919558" expanded="true" signature="6251:6684" placeholder="Insert into ..." />
+                <marker date="1587380919558" expanded="true" signature="8267:8573" placeholder="Insert into ..." />
+                <marker date="1587380919558" expanded="true" signature="10193:10297" placeholder="Insert into ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xml_validation.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xml_validation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.26455906">
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+              <folding>
+                <marker date="1586611262448" expanded="true" signature="301:518" placeholder="SELECT c.CID..cids..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b15269e6-70cc-49a7-aef5-c0077fd64428/console.sql" />
+        <option value="$PROJECT_DIR$/dbconn.php" />
+        <option value="$PROJECT_DIR$/databaseConn.php" />
+        <option value="$PROJECT_DIR$/webService.php" />
+        <option value="$PROJECT_DIR$/xml_validation.php" />
+        <option value="$PROJECT_DIR$/sync_cloud_ws.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpDebugGeneral" notify_if_session_was_finished_without_being_paused="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="a1c6598a-5b56-416a-902f-15d98f71e1d1" name="localhost" port="8090" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="748" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sync_Cloud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sync_Cloud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sync_Cloud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataWarehouse" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0971817-8534-46ba-aa62-4e033a21e659" name="Default" comment="" />
+      <created>1564735540815</created>
+      <option name="number" value="Default" />
+      <updated>1564735540815</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="748" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12225476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.021961933" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34456354" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sync_cloud_ws.php</url>
+          <line>24</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sync_cloud_ws.php</url>
+          <line>40</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sync_cloud_ws.php</url>
+          <line>245</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/sync_cloud_ws.php</url>
+          <line>122</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="47" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sync_cloud_ws.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="165" column="0" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+          <folding>
+            <marker date="1587380919558" expanded="true" signature="1765:1819" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1765:1871" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1996:2242" placeholder="INSERT INTO ..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3033" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3037" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3060" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5334" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5362" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5275" placeholder="select FATUR..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5334" placeholder="select FATUR..fatured..." />
+            <marker date="1587380919558" expanded="true" signature="5802:5867" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="6251:6684" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="8267:8573" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="10193:10297" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1586611262448" expanded="true" signature="301:518" placeholder="SELECT c.CID..cids..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync_cloud_ws.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1587380919558" expanded="true" signature="1765:1819" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1765:1871" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1996:2242" placeholder="INSERT INTO ..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3033" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3037" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3060" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5334" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5362" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5275" placeholder="select FATUR..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5334" placeholder="select FATUR..fatured..." />
+            <marker date="1587380919558" expanded="true" signature="5802:5867" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="6251:6684" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="8267:8573" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="10193:10297" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <marker date="1586611262448" expanded="true" signature="301:518" placeholder="SELECT c.CID..cids..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync_cloud_ws.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1587380919558" expanded="true" signature="1765:1819" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1765:1871" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1996:2242" placeholder="INSERT INTO ..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3033" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3037" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3060" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5334" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5362" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5275" placeholder="select FATUR..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5334" placeholder="select FATUR..fatured..." />
+            <marker date="1587380919558" expanded="true" signature="5802:5867" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="6251:6684" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="8267:8573" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="10193:10297" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding>
+            <marker date="1586611262448" expanded="true" signature="301:518" placeholder="SELECT c.CID..cids..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync_cloud_ws.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1587380919558" expanded="true" signature="1765:1819" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1765:1871" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1996:2242" placeholder="INSERT INTO ..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3033" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3037" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3060" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5334" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5362" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5275" placeholder="select FATUR..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5334" placeholder="select FATUR..fatured..." />
+            <marker date="1587380919558" expanded="true" signature="5802:5867" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="6251:6684" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="8267:8573" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="10193:10297" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="11" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <marker date="1586611262448" expanded="true" signature="301:518" placeholder="SELECT c.CID..cids..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync_cloud_ws.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1587380919558" expanded="true" signature="1765:1819" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1765:1871" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1996:2242" placeholder="INSERT INTO ..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3033" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3037" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3060" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5334" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5362" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5275" placeholder="select FATUR..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5334" placeholder="select FATUR..fatured..." />
+            <marker date="1587380919558" expanded="true" signature="5802:5867" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="6251:6684" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="8267:8573" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="10193:10297" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="11" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <marker date="1586611262448" expanded="true" signature="301:518" placeholder="SELECT c.CID..cids..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync_cloud_ws.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1587380919558" expanded="true" signature="1765:1819" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1765:1871" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1996:2242" placeholder="INSERT INTO ..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3033" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3037" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3060" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5334" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5362" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5275" placeholder="select FATUR..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5334" placeholder="select FATUR..fatured..." />
+            <marker date="1587380919558" expanded="true" signature="5802:5867" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="6251:6684" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="8267:8573" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="10193:10297" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="11" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <marker date="1586611262448" expanded="true" signature="301:518" placeholder="SELECT c.CID..cids..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync_cloud_ws.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1587380919558" expanded="true" signature="1765:1819" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1765:1871" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1996:2242" placeholder="INSERT INTO ..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3033" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3037" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3060" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5334" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5362" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5275" placeholder="select FATUR..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5334" placeholder="select FATUR..fatured..." />
+            <marker date="1587380919558" expanded="true" signature="5802:5867" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="6251:6684" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="8267:8573" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="10193:10297" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1586611262448" expanded="true" signature="301:518" placeholder="SELECT c.CID..cids..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync_cloud_ws.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1587380919558" expanded="true" signature="1765:1819" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1765:1871" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1996:2242" placeholder="INSERT INTO ..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3033" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3037" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3060" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5334" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5362" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5275" placeholder="select FATUR..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5334" placeholder="select FATUR..fatured..." />
+            <marker date="1587380919558" expanded="true" signature="5802:5867" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="6251:6684" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="8267:8573" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="10193:10297" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync_cloud_ws.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1587380919558" expanded="true" signature="1765:1819" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1765:1871" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1996:2242" placeholder="INSERT INTO ..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3033" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3037" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3060" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5334" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5362" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5275" placeholder="select FATUR..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5334" placeholder="select FATUR..fatured..." />
+            <marker date="1587380919558" expanded="true" signature="5802:5867" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="6251:6684" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="8267:8573" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="10193:10297" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/libraries/ErrorHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.038462">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33245382">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/lint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40369394">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DataWarehouse/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.044854883">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DataWarehouse/Permbledhje.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.044854883">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/tbl_structure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5514512">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33245382">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../phpMyAdmin/db_structure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33245382">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sync_cloud_ws.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="165" column="0" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+          <folding>
+            <marker date="1587380919558" expanded="true" signature="1765:1819" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1765:1871" placeholder="SELECT * FRO..seksion..." />
+            <marker date="1587380919558" expanded="true" signature="1996:2242" placeholder="INSERT INTO ..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3033" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3037" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="2948:3060" placeholder="UPDATE seksi..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5334" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5219:5362" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5275" placeholder="select FATUR..." />
+            <marker date="1587380919558" expanded="true" signature="5259:5334" placeholder="select FATUR..fatured..." />
+            <marker date="1587380919558" expanded="true" signature="5802:5867" placeholder="delete from ..." />
+            <marker date="1587380919558" expanded="true" signature="6251:6684" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="8267:8573" placeholder="Insert into ..." />
+            <marker date="1587380919558" expanded="true" signature="10193:10297" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DataWarehouse/SetBusiness.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DataWarehouse/Filialet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.045212764">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26455906">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <marker date="1586611262448" expanded="true" signature="301:518" placeholder="SELECT c.CID..cids..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

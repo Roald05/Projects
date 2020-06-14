@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f76ff</color>
+    <color name="colorPrimaryDark">#3F76FF</color>
+    <color name="colorAccent">#3f76ff</color>
+    <color name="KalendariColor">#64FFDA</color>
+    <color name="IlaceColor">#80DEEA</color>
+    <color name="HistorikuColor">#FFFF00</color>
+    <color name="DarkBlue">#000e1a</color>
+    <color name="AMDoc_Color">#56CCF2</color>
+    <color name="AMDoc_ColorD">#1E88E5</color>
+    <color name="DarkBlue2">#3f51b5</color>
+    <color name="RecetaColor">#D50000</color>
+
+
+
+
+</resources>

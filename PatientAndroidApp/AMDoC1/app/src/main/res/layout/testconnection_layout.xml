@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp">
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="Testo Lidhjen"
+                android:layout_marginRight="10dp"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_weight="1"
+                android:background="#3f76ff"
+                android:textColor="#fff"
+                android:id="@+id/btTesto"/>
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Ruaj"
+                android:layout_weight="1"
+                style="?android:attr/buttonBarButtonStyle"
+                android:background="#3f76ff"
+                android:textColor="#fff"
+                android:id="@+id/btRuaj"/>
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Dil"
+                android:layout_marginLeft="10dp"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_weight="1"
+                android:background="#ba160c"
+                android:textColor="#fff"
+                android:id="@+id/btDil"/>
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:hint="IP"
+            android:id="@+id/etIp"
+            android:inputType="text"
+            android:gravity="center"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:hint="Porta sql"
+            android:id="@+id/etPorta"
+            android:inputType="number"
+            android:gravity="center"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:hint="Databaza"
+            android:id="@+id/etDb"
+            android:inputType="text"
+            android:gravity="center"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:hint="Username"
+            android:id="@+id/etUser"
+            android:inputType="text"
+            android:gravity="center"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:id="@+id/etPass"
+            android:inputType="textPassword"
+            android:gravity="center"/>
+    </LinearLayout>
+
+</LinearLayout>

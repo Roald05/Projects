@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C4CBCF">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/receta">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <com.google.android.material.appbar.AppBarLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:theme="@style/AppTheme.AppBarOverlay">
+                <androidx.appcompat.widget.Toolbar
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/toolbar"
+                    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
+            </com.google.android.material.appbar.AppBarLayout>
+
+            <androidx.cardview.widget.CardView
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                card_view:cardCornerRadius="4dp"
+                card_view:cardElevation="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:id="@+id/llElement"
+                    android:layout_weight="50"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginTop="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text="Titull1 : "
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvTitulli1"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text=" element1"
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvElement1"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text="Titull2 : "
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvTitulli2"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text=" element1"
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvElement2"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text="Titull1 : "
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvTitulli3"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text=" element1"
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvElement3"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text="Titull1 : "
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvTitulli4"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text=" element1"
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvElement4"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text="Titull1 : "
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvTitulli5"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text=" element1"
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvElement5"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text="Titull1 : "
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvTitulli6"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text=" element1"
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvElement6"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text="Titull1 : "
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvTitulli7"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text=" element1"
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvElement7"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text="Titull1 : "
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvTitulli8"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text=" element1"
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvElement8"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="10dp">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text="Titull1 : "
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvTitulli9"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="50"
+                            android:text=" element1"
+                            android:textSize="15dp"
+                            android:textStyle="bold"
+                            android:typeface="monospace"
+                            android:id="@+id/tvElement9"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_weight="50"
+                android:text="Nese te dhenat nuk shfaqen menjehere atehere prisni disa sekonda ose rihapni kete nderfaqe!"
+                android:textSize="10dp"
+                android:textStyle="italic"
+                android:typeface="serif"
+                android:id="@+id/tvLajmerim"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        android:background="@color/DarkBlue"
+        app:srcCompat="@android:drawable/ic_dialog_email" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

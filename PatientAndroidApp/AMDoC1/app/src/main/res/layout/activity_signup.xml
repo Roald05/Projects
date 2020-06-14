@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Signup"
+    android:background="#56CCF2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_centerInParent="true">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textAlignment="center"
+            android:textSize="35dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:text="SignUp"
+            style="@style/TextAppearance.Widget.AppCompat.Toolbar.Title"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_person_black_24dp"
+            android:ellipsize="start"
+            android:hint="Username"
+            android:gravity="center_horizontal"
+            android:id="@+id/username"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_recent_actors_black_24dp"
+            android:ellipsize="start"
+            android:hint="Emri"
+            android:gravity="center_horizontal"
+            android:id="@+id/emer"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_recent_actors_black_24dp"
+            android:ellipsize="start"
+            android:hint="Mbiemri"
+            android:gravity="center_horizontal"
+            android:id="@+id/mbiemer"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_location_on_black_24dp"
+            android:ellipsize="start"
+            android:hint="Adrresa"
+            android:gravity="center_horizontal"
+            android:id="@+id/addresa"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_local_phone_black_24dp"
+            android:ellipsize="start"
+            android:hint="Telefoni"
+            android:gravity="center_horizontal"
+            android:id="@+id/telefoni"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_lock_black_24dp"
+            android:ellipsize="start"
+            android:hint="Password"
+            android:gravity="center_horizontal"
+            android:id="@+id/password"
+            android:inputType="textPassword"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_lock_black_24dp"
+            android:ellipsize="start"
+            android:hint="Confirm Password"
+            android:gravity="center_horizontal"
+            android:id="@+id/confirm"
+            android:inputType="textPassword"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/ic_transfer_within_a_station_black_24dp"
+            android:ellipsize="start"
+            android:hint="Doktori"
+            android:gravity="center_horizontal"
+            android:id="@+id/doktori"/>
+
+        <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="horizontal"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:id="@+id/gjinia"
+            >
+            <RadioButton android:id="@+id/femer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_wc_black_24dp"
+                android:layout_weight="1"
+                android:text="  Femer"
+                />
+            <RadioButton android:id="@+id/mashkull"
+                android:layout_width="wrap_content"
+                android:drawableLeft="@drawable/ic_wc_black_24dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="   Mashkull"
+                />
+        </RadioGroup>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginBottom="20dp">
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="SignUp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:background="#3f76ff"
+                android:textColor="#fff"
+                android:id="@+id/signup"/>
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="Sign In"
+            android:textColor="#3f76ff"
+            android:id="@+id/signin"/>
+
+    </LinearLayout>
+
+</ScrollView>
