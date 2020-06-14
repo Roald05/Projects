@@ -1,0 +1,109 @@
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+    <script src="jquery/jquery-3.2.1.min.js"></script>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script type="text/javascript" src="bootstrap/js/bootstrap-filestyle.min.js"> </script>
+    <style>
+        hr {
+            border-top: 1px dotted red;
+        }
+        .btn{
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<form method='post' action='' enctype='multipart/form-data'>
+    <div class="row" style="margin-left: 2%">
+        <button type="button" id="bt" class="btn btn-primary" style="margin: 1%" onclick="myfunction()">Start Load</button>
+        <button type="button" id="bt1"  style="margin-bottom: 1%;margin-top: 1%" ></button>
+        <button type="button" id="button1" style="margin-bottom: 1%;margin-left: 5%;margin-top: 1%" ></button>
+
+    </div>
+    <hr size="30" >
+    <div class="row" style="margin-left: 2%">
+        <div id="content2"></div>
+        <div id="info"></div>
+    </div>
+</form>
+
+
+</body>
+</html>
+<script>
+    function myfunction() {
+        $.ajax("DataFiles/WebTimetables.html", {
+            success: function (response) {
+                $("#content2").html(response).find('weeks','week').remove();
+                $("#bt1").click();
+                $("#button1").click();
+            }
+        });
+    }
+</script>
+<script>
+    function showTableData() {
+        document.getElementById('info').innerHTML = "";
+        var tablesData="";
+        var myTab = document.getElementsByClassName('spreadsheet');
+        var weekDay = document.getElementsByClassName('labelone');
+        for (x = 0; x < myTab.length; x++){
+
+            for (i = 1; i < myTab[x].rows.length; i++) {
+
+                var objCells = myTab[x].rows.item(i).cells;
+
+                tablesData = tablesData + weekDay[x].innerHTML;
+
+                for (var j = 0; j < objCells.length; j++) {
+
+                    tablesData = tablesData + '*' + objCells.item(j).innerHTML;
+                }
+                tablesData = tablesData + '%';
+            }
+        }
+
+        var arr = new Array() ;
+        arr = tablesData.split( '%' ) ;
+        for( i = 0 ; i < arr.length ; i++ )
+        {
+            arr2 = new Array() ;
+            arr2 = arr[ i ].split( '*' ) ;
+            arr2[ 0 ] = arr2[ 0 ] ;
+            arr[ i ] = arr2 ;
+        }
+        $("#content2").html('Loading . . .');
+        return arr;
+    }
+
+</script>
+<script>
+    $(document).ready(function () {
+        $("#bt1").hide();
+        $("#button1").hide();
+
+        $("#bt1").click( function(){
+            var array= JSON.stringify(showTableData());
+            $.ajax({
+                url: 'DatesInsertion.php',
+                type: 'POST',
+                data: {arr:array},
+                success: function(data){
+                    $("#info").html(data);
+                }
+            });
+        });
+    });
+</script>
+<script>
+    $(document).ready(function () {
+        $("#button1").click( function(){
+            window.location.href = "InitialSetup.php";
+        });
+    });
+</script>
+
+
