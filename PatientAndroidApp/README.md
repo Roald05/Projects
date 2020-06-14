@@ -1,4 +1,4 @@
-#Projects
+#Android app
 
 
 This is a Android app programmed in JAVA
